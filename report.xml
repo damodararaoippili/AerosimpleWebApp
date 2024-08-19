@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="44.989" timestamp="2024-08-18T10:57:14.621875+05:30" hostname="DAMODAR"><testcase classname="TestLogin.TestLogin" name="test_successful_login" time="44.494" /></testsuite></testsuites>
